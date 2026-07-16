@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 16 号添加
 
+#### zxcHolmes - [Github](https://github.com/zxcHolmes)
+* :white_check_mark: [IPTV Player](https://iptv.aibit.im/zh)：无需注册、下载或订阅，在浏览器中收看世界各地新闻、体育和娱乐节目，超过一万个频道
+
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
 * :white_check_mark: [AI 小说作家 / AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer)：中文小说与网文写作桌面工作台，支持大纲、角色、章节蓝图、审稿修稿和知识库管理；内置完整系统提示词，避免长篇创作中角色遗忘与主题漂移；支持 NSFW 本地模型生成成人文学
 

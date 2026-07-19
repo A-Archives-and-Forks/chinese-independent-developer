@@ -28,8 +28,7 @@
 #### Mr.Baoboer(北京) - [Github](https://github.com/MrBaoboer/)
 * :white_check_mark: [氛寸 Fēn Cùn](https://github.com/MrBaoboer/FenCun)：轻量优雅的「香水决策」小程序，根据实时天气和出席场合，告诉你今天最适合喷哪瓶香水，以及怎样用得恰到好处 - [更多介绍](https://github.com/MrBaoboer/FenCun)
 
-#### wfly - [Github](https://github.com/Miofly)
-* :white_check_mark: [wflynn 博客](https://wflynn.cn/)：个人技术博客，专注前端工程化、Vue/React 生态和性能优化实践分享
+#### wfly - [Github](https://github.com/Miofly), [博客](https://wflynn.cn/)
 * :white_check_mark: [wflynn 工具站](https://tools.wflynn.cn/)：开发者在线工具集，提供 JSON 格式化、图片处理、代码转换等常用开发辅助工具
 
 #### duzexu - [Github](https://github.com/duzexu)
